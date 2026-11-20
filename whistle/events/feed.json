@@ -451,10 +451,6 @@
  ],
  "i18n": {
   "es": {
-   "Rio Red-Black": "Río Rojinegro",
-   "São Paulo Green": "São Paulo Verde",
-   "Madrid Red": "Madrid Rojo",
-   "Madrid White": "Madrid Blanco",
    "World Club Final": "Final Mundial de Clubes",
    "Istanbul Super Cup": "Supercopa de Estambul",
    "Istanbul": "Estambul",
@@ -479,10 +475,6 @@
    "6 Feb": "6 feb"
   },
   "fr": {
-   "Rio Red-Black": "Rio Rouge et Noir",
-   "São Paulo Green": "São Paulo Vert",
-   "Madrid Red": "Madrid Rouge",
-   "Madrid White": "Madrid Blanc",
    "World Club Final": "Finale mondiale des clubs",
    "Istanbul Super Cup": "Supercoupe d'Istanbul",
    "Qatar": "Qatar",
@@ -504,10 +496,6 @@
    "6 Feb": "6 févr."
   },
   "it": {
-   "Rio Red-Black": "Rio Rossonero",
-   "São Paulo Green": "San Paolo Verde",
-   "Madrid Red": "Madrid Rosso",
-   "Madrid White": "Madrid Bianco",
    "World Club Final": "Finale mondiale per club",
    "Istanbul Super Cup": "Supercoppa di Istanbul",
    "Qatar": "Qatar",
@@ -518,7 +506,6 @@
    "South American club final": "Finale sudamericana per club",
    "Brazil final day": "Ultima giornata in Brasile",
    "Last round": "Ultima giornata",
-   "San Sebastián": "San Sebastián",
    "The champions of each continent meet for one trophy. Referee every round before the real match is played.": "I campioni di ogni continente si sfidano per un trofeo. Arbitra ogni turno prima che si giochi la partita vera.",
    "Four top Spanish clubs, three nights in Istanbul: two semi-finals, then the final.": "Quattro grandi club spagnoli, tre serate a Istanbul: due semifinali, poi la finale.",
    "28 Nov": "28 nov",
@@ -530,10 +517,6 @@
    "6 Feb": "6 feb"
   },
   "pt": {
-   "Rio Red-Black": "Rio Rubro-Negro",
-   "São Paulo Green": "São Paulo Verde",
-   "Madrid Red": "Madri Vermelho",
-   "Madrid White": "Madri Branco",
    "World Club Final": "Final Mundial de Clubes",
    "Istanbul Super Cup": "Supercopa de Istambul",
    "Istanbul": "Istambul",
@@ -545,7 +528,6 @@
    "South American club final": "Final sul-americana de clubes",
    "Brazil final day": "Última rodada no Brasil",
    "Last round": "Última rodada",
-   "Barcelona": "Barcelona",
    "The champions of each continent meet for one trophy. Referee every round before the real match is played.": "Os campeões de cada continente disputam um troféu. Apite cada fase antes de o jogo real acontecer.",
    "Four top Spanish clubs, three nights in Istanbul: two semi-finals, then the final.": "Quatro grandes clubes espanhóis, três noites em Istambul: duas semifinais e depois a final.",
    "28 Nov": "28 nov",
@@ -557,10 +539,6 @@
    "6 Feb": "6 fev"
   },
   "de": {
-   "Rio Red-Black": "Rio Rot-Schwarz",
-   "São Paulo Green": "São Paulo Grün",
-   "Madrid Red": "Madrid Rot",
-   "Madrid White": "Madrid Weiß",
    "World Club Final": "Klub-Weltfinale",
    "Istanbul Super Cup": "Supercup Istanbul",
    "Qatar": "Katar",
@@ -582,10 +560,6 @@
    "6 Feb": "6 Feb."
   },
   "tr": {
-   "Rio Red-Black": "Rio Kırmızı-Siyah",
-   "São Paulo Green": "São Paulo Yeşil",
-   "Madrid Red": "Madrid Kırmızı",
-   "Madrid White": "Madrid Beyaz",
    "World Club Final": "Dünya Kulüpler Finali",
    "Istanbul Super Cup": "İstanbul Süper Kupası",
    "Istanbul": "İstanbul",
@@ -608,17 +582,6 @@
    "6 Feb": "6 Şub"
   },
   "ar": {
-   "Rio Red-Black": "ريو الأحمر والأسود",
-   "Chapecó": "شابيكو",
-   "São Paulo Green": "ساو باولو الأخضر",
-   "La Plata": "لا بلاتا",
-   "Toluca": "تولوكا",
-   "Pretoria": "بريتوريا",
-   "Paris": "باريس",
-   "Barcelona": "برشلونة",
-   "Madrid Red": "مدريد الأحمر",
-   "San Sebastián": "سان سيباستيان",
-   "Madrid White": "مدريد الأبيض",
    "World Club Final": "نهائي الأندية العالمي",
    "Istanbul Super Cup": "كأس السوبر في إسطنبول",
    "Istanbul": "إسطنبول",
