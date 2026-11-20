@@ -1,0 +1,610 @@
+{
+ "format": "whistle.pack",
+ "version": 1,
+ "feed": 1,
+ "id": "whistle.events",
+ "name": "Whistle events",
+ "author": "Whistle",
+ "updated": "2026-11-19T15:00:00Z",
+ "description": "Big Matches and event tournaments.",
+ "teams": [
+  {
+   "id": "rio-redblack",
+   "name": "Rio Red-Black",
+   "short": "RRB",
+   "rating": 82,
+   "edge": 0.5,
+   "kit": {
+    "shirt": "#c8102e",
+    "shorts": "#ffffff",
+    "accent": "#111111"
+   },
+   "names": [
+    "Silva",
+    "Santos",
+    "Oliveira",
+    "Souza",
+    "Lima",
+    "Pereira",
+    "Costa",
+    "Rodrigues",
+    "Almeida",
+    "Nascimento",
+    "Ferreira",
+    "Carvalho",
+    "Gomes",
+    "Ribeiro",
+    "Martins"
+   ]
+  },
+  {
+   "id": "chapeco",
+   "name": "Chapecó",
+   "short": "CHA",
+   "rating": 74,
+   "edge": 0.45,
+   "kit": {
+    "shirt": "#0a8a3d",
+    "shorts": "#ffffff",
+    "accent": "#ffffff"
+   },
+   "names": [
+    "Martins",
+    "Ribeiro",
+    "Gomes",
+    "Carvalho",
+    "Ferreira",
+    "Nascimento",
+    "Almeida",
+    "Rodrigues",
+    "Costa",
+    "Pereira",
+    "Lima",
+    "Souza",
+    "Oliveira",
+    "Santos",
+    "Silva"
+   ]
+  },
+  {
+   "id": "sao-paulo-green",
+   "name": "São Paulo Green",
+   "short": "SPG",
+   "rating": 83,
+   "edge": 0.5,
+   "kit": {
+    "shirt": "#006437",
+    "shorts": "#ffffff",
+    "accent": "#ffffff"
+   },
+   "names": [
+    "Souza",
+    "Lima",
+    "Pereira",
+    "Costa",
+    "Rodrigues",
+    "Almeida",
+    "Nascimento",
+    "Ferreira",
+    "Carvalho",
+    "Gomes",
+    "Ribeiro",
+    "Martins",
+    "Silva",
+    "Santos",
+    "Oliveira"
+   ]
+  },
+  {
+   "id": "la-plata",
+   "name": "La Plata",
+   "short": "LPL",
+   "rating": 80,
+   "edge": 0.6,
+   "kit": {
+    "shirt": "#e30613",
+    "shorts": "#111111",
+    "accent": "#ffffff"
+   },
+   "names": [
+    "González",
+    "Rodríguez",
+    "Fernández",
+    "López",
+    "Martínez",
+    "Gómez",
+    "Díaz",
+    "Pérez",
+    "Romero",
+    "Sosa",
+    "Álvarez",
+    "Torres",
+    "Ruiz",
+    "Ramírez",
+    "Benítez"
+   ]
+  },
+  {
+   "id": "toluca",
+   "name": "Toluca",
+   "short": "TOL",
+   "rating": 79,
+   "edge": 0.5,
+   "kit": {
+    "shirt": "#d0021b",
+    "shorts": "#ffffff",
+    "accent": "#ffffff"
+   },
+   "names": [
+    "Hernández",
+    "García",
+    "Martínez",
+    "López",
+    "González",
+    "Rodríguez",
+    "Sánchez",
+    "Ramírez",
+    "Cruz",
+    "Flores",
+    "Gómez",
+    "Morales",
+    "Vázquez",
+    "Reyes",
+    "Jiménez"
+   ]
+  },
+  {
+   "id": "pretoria",
+   "name": "Pretoria",
+   "short": "PRE",
+   "rating": 79,
+   "edge": 0.45,
+   "kit": {
+    "shirt": "#ffd200",
+    "shorts": "#0057a8",
+    "accent": "#00843d"
+   },
+   "names": [
+    "Mokoena",
+    "Dlamini",
+    "Nkosi",
+    "Ndlovu",
+    "Khumalo",
+    "Zulu",
+    "Mthembu",
+    "Sithole",
+    "Mahlangu",
+    "Molefe",
+    "Maluleke",
+    "Ngcobo",
+    "Shabalala",
+    "Mabaso",
+    "Tau"
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "short": "PAR",
+   "rating": 90,
+   "edge": 0.4,
+   "kit": {
+    "shirt": "#0b1f4f",
+    "shorts": "#0b1f4f",
+    "accent": "#da291c"
+   },
+   "names": [
+    "Martin",
+    "Bernard",
+    "Dubois",
+    "Thomas",
+    "Robert",
+    "Richard",
+    "Petit",
+    "Durand",
+    "Leroy",
+    "Moreau",
+    "Simon",
+    "Laurent",
+    "Lefebvre",
+    "Michel",
+    "Diallo"
+   ]
+  },
+  {
+   "id": "barcelona",
+   "name": "Barcelona",
+   "short": "BAR",
+   "rating": 88,
+   "edge": 0.4,
+   "kit": {
+    "shirt": "#a50044",
+    "shorts": "#004d98",
+    "accent": "#004d98"
+   },
+   "names": [
+    "García",
+    "Fernández",
+    "González",
+    "Rodríguez",
+    "López",
+    "Martínez",
+    "Sánchez",
+    "Pérez",
+    "Gómez",
+    "Martín",
+    "Jiménez",
+    "Ruiz",
+    "Hernández",
+    "Díaz",
+    "Moreno"
+   ]
+  },
+  {
+   "id": "madrid-red",
+   "name": "Madrid Red",
+   "short": "MRD",
+   "rating": 86,
+   "edge": 0.6,
+   "kit": {
+    "shirt": "#cb3524",
+    "shorts": "#1c2c5b",
+    "accent": "#ffffff"
+   },
+   "names": [
+    "Martínez",
+    "Sánchez",
+    "Pérez",
+    "Gómez",
+    "Martín",
+    "Jiménez",
+    "Ruiz",
+    "Hernández",
+    "Díaz",
+    "Moreno",
+    "García",
+    "Fernández",
+    "González",
+    "Rodríguez",
+    "López"
+   ]
+  },
+  {
+   "id": "san-sebastian",
+   "name": "San Sebastián",
+   "short": "SSB",
+   "rating": 80,
+   "edge": 0.45,
+   "kit": {
+    "shirt": "#0067b1",
+    "shorts": "#ffffff",
+    "accent": "#ffffff"
+   },
+   "names": [
+    "Etxeberria",
+    "Agirre",
+    "Arrieta",
+    "Goikoetxea",
+    "Uriarte",
+    "Iturralde",
+    "Larrañaga",
+    "Olano",
+    "Aranburu",
+    "Elizondo",
+    "Garmendia",
+    "Mendizabal",
+    "Zabala",
+    "Oyarzabal",
+    "Barrenetxea"
+   ]
+  },
+  {
+   "id": "madrid-white",
+   "name": "Madrid White",
+   "short": "MWH",
+   "rating": 89,
+   "edge": 0.45,
+   "kit": {
+    "shirt": "#ffffff",
+    "shorts": "#ffffff",
+    "accent": "#fdb913"
+   },
+   "names": [
+    "Jiménez",
+    "Ruiz",
+    "Hernández",
+    "Díaz",
+    "Moreno",
+    "García",
+    "Fernández",
+    "González",
+    "Rodríguez",
+    "López",
+    "Martínez",
+    "Sánchez",
+    "Pérez",
+    "Gómez",
+    "Martín"
+   ]
+  }
+ ],
+ "tournaments": [
+  {
+   "id": "world-club-final-2026",
+   "name": "World Club Final",
+   "year": 2026,
+   "host": "Qatar",
+   "description": "The champions of each continent meet for one trophy. Referee every round before the real match is played.",
+   "var": true,
+   "knockout": true,
+   "crowd": 45000,
+   "fixtures": [
+    {
+     "id": "sa-final",
+     "stage": "South American final",
+     "date": "28 Nov",
+     "venue": "Montevideo",
+     "home": "sao-paulo-green",
+     "away": "la-plata"
+    },
+    {
+     "id": "playoff",
+     "stage": "Play-off",
+     "date": "9 Dec",
+     "venue": "Doha",
+     "home": "W:sa-final",
+     "away": "toluca"
+    },
+    {
+     "id": "semi",
+     "stage": "Semi-final",
+     "date": "12 Dec",
+     "venue": "Doha",
+     "home": "pretoria",
+     "away": "W:playoff"
+    },
+    {
+     "id": "final",
+     "stage": "Final",
+     "date": "16 Dec",
+     "venue": "Doha",
+     "home": "paris",
+     "away": "W:semi"
+    }
+   ]
+  },
+  {
+   "id": "istanbul-super-cup-2027",
+   "name": "Istanbul Super Cup",
+   "year": 2027,
+   "host": "Istanbul",
+   "description": "Four top Spanish clubs, three nights in Istanbul: two semi-finals, then the final.",
+   "var": true,
+   "knockout": true,
+   "crowd": 52000,
+   "fixtures": [
+    {
+     "id": "sf1",
+     "stage": "Semi-final",
+     "date": "2 Feb",
+     "venue": "Istanbul",
+     "home": "barcelona",
+     "away": "madrid-red"
+    },
+    {
+     "id": "sf2",
+     "stage": "Semi-final",
+     "date": "3 Feb",
+     "venue": "Istanbul",
+     "home": "san-sebastian",
+     "away": "madrid-white"
+    },
+    {
+     "id": "final",
+     "stage": "Final",
+     "date": "6 Feb",
+     "venue": "Istanbul",
+     "home": "W:sf1",
+     "away": "W:sf2"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "id": "world-club-week",
+   "tournament": "world-club-final-2026",
+   "start": "2026-11-28",
+   "end": "2026-12-16"
+  },
+  {
+   "id": "istanbul-super-cup",
+   "tournament": "istanbul-super-cup-2027",
+   "start": "2027-02-01",
+   "end": "2027-02-06"
+  }
+ ],
+ "bigMatches": [
+  {
+   "id": "sa-club-final-2026",
+   "home": "sao-paulo-green",
+   "away": "la-plata",
+   "kickoff": "2026-11-28T20:00:00Z",
+   "comp": "South American club final",
+   "stage": "Final",
+   "venue": "Montevideo",
+   "crowd": 60000,
+   "knockout": true,
+   "stakes": 1.0
+  },
+  {
+   "id": "br-final-day-2026",
+   "home": "rio-redblack",
+   "away": "chapeco",
+   "kickoff": "2026-12-03T00:30:00Z",
+   "comp": "Brazil final day",
+   "stage": "Last round",
+   "venue": "Rio de Janeiro",
+   "crowd": 70000,
+   "stakes": 0.95
+  }
+ ],
+ "i18n": {
+  "es": {
+   "World Club Final": "Final Mundial de Clubes",
+   "Istanbul Super Cup": "Supercopa de Estambul",
+   "Istanbul": "Estambul",
+   "Qatar": "Catar",
+   "Doha": "Doha",
+   "South American final": "Final sudamericana",
+   "Play-off": "Eliminatoria",
+   "Semi-final": "Semifinal",
+   "Final": "Final",
+   "South American club final": "Final sudamericana de clubes",
+   "Brazil final day": "Última jornada en Brasil",
+   "Last round": "Última jornada",
+   "Rio de Janeiro": "Río de Janeiro",
+   "The champions of each continent meet for one trophy. Referee every round before the real match is played.": "Los campeones de cada continente se enfrentan por un trofeo. Arbitra cada ronda antes de que se juegue el partido real.",
+   "Four top Spanish clubs, three nights in Istanbul: two semi-finals, then the final.": "Cuatro grandes clubes españoles, tres noches en Estambul: dos semifinales y la final.",
+   "28 Nov": "28 nov",
+   "9 Dec": "9 dic",
+   "12 Dec": "12 dic",
+   "16 Dec": "16 dic",
+   "2 Feb": "2 feb",
+   "3 Feb": "3 feb",
+   "6 Feb": "6 feb"
+  },
+  "fr": {
+   "World Club Final": "Finale mondiale des clubs",
+   "Istanbul Super Cup": "Supercoupe d'Istanbul",
+   "Qatar": "Qatar",
+   "South American final": "Finale sud-américaine",
+   "Play-off": "Barrage",
+   "Semi-final": "Demi-finale",
+   "Final": "Finale",
+   "South American club final": "Finale sud-américaine des clubs",
+   "Brazil final day": "Dernière journée au Brésil",
+   "Last round": "Dernière journée",
+   "The champions of each continent meet for one trophy. Referee every round before the real match is played.": "Les champions de chaque continent se disputent un trophée. Arbitrez chaque tour avant que le vrai match ne soit joué.",
+   "Four top Spanish clubs, three nights in Istanbul: two semi-finals, then the final.": "Quatre grands clubs espagnols, trois soirées à Istanbul : deux demi-finales, puis la finale.",
+   "28 Nov": "28 nov.",
+   "9 Dec": "9 déc.",
+   "12 Dec": "12 déc.",
+   "16 Dec": "16 déc.",
+   "2 Feb": "2 févr.",
+   "3 Feb": "3 févr.",
+   "6 Feb": "6 févr."
+  },
+  "it": {
+   "World Club Final": "Finale mondiale per club",
+   "Istanbul Super Cup": "Supercoppa di Istanbul",
+   "Qatar": "Qatar",
+   "South American final": "Finale sudamericana",
+   "Play-off": "Spareggio",
+   "Semi-final": "Semifinale",
+   "Final": "Finale",
+   "South American club final": "Finale sudamericana per club",
+   "Brazil final day": "Ultima giornata in Brasile",
+   "Last round": "Ultima giornata",
+   "The champions of each continent meet for one trophy. Referee every round before the real match is played.": "I campioni di ogni continente si sfidano per un trofeo. Arbitra ogni turno prima che si giochi la partita vera.",
+   "Four top Spanish clubs, three nights in Istanbul: two semi-finals, then the final.": "Quattro grandi club spagnoli, tre serate a Istanbul: due semifinali, poi la finale.",
+   "28 Nov": "28 nov",
+   "9 Dec": "9 dic",
+   "12 Dec": "12 dic",
+   "16 Dec": "16 dic",
+   "2 Feb": "2 feb",
+   "3 Feb": "3 feb",
+   "6 Feb": "6 feb"
+  },
+  "pt": {
+   "World Club Final": "Final Mundial de Clubes",
+   "Istanbul Super Cup": "Supercopa de Istambul",
+   "Istanbul": "Istambul",
+   "Qatar": "Catar",
+   "South American final": "Final sul-americana",
+   "Play-off": "Repescagem",
+   "Semi-final": "Semifinal",
+   "Final": "Final",
+   "South American club final": "Final sul-americana de clubes",
+   "Brazil final day": "Última rodada no Brasil",
+   "Last round": "Última rodada",
+   "The champions of each continent meet for one trophy. Referee every round before the real match is played.": "Os campeões de cada continente disputam um troféu. Apite cada fase antes de o jogo real acontecer.",
+   "Four top Spanish clubs, three nights in Istanbul: two semi-finals, then the final.": "Quatro grandes clubes espanhóis, três noites em Istambul: duas semifinais e depois a final.",
+   "28 Nov": "28 nov",
+   "9 Dec": "9 dez",
+   "12 Dec": "12 dez",
+   "16 Dec": "16 dez",
+   "2 Feb": "2 fev",
+   "3 Feb": "3 fev",
+   "6 Feb": "6 fev"
+  },
+  "de": {
+   "World Club Final": "Klub-Weltfinale",
+   "Istanbul Super Cup": "Supercup Istanbul",
+   "Qatar": "Katar",
+   "South American final": "Südamerika-Finale",
+   "Play-off": "Play-off",
+   "Semi-final": "Halbfinale",
+   "Final": "Finale",
+   "South American club final": "Südamerikanisches Klubfinale",
+   "Brazil final day": "Letzter Spieltag in Brasilien",
+   "Last round": "Letzter Spieltag",
+   "The champions of each continent meet for one trophy. Referee every round before the real match is played.": "Die Meister jedes Kontinents spielen um einen Pokal. Pfeif jede Runde, bevor das echte Spiel stattfindet.",
+   "Four top Spanish clubs, three nights in Istanbul: two semi-finals, then the final.": "Vier spanische Topklubs, drei Abende in Istanbul: zwei Halbfinals, dann das Finale.",
+   "28 Nov": "28 Nov.",
+   "9 Dec": "9 Dez.",
+   "12 Dec": "12 Dez.",
+   "16 Dec": "16 Dez.",
+   "2 Feb": "2 Feb.",
+   "3 Feb": "3 Feb.",
+   "6 Feb": "6 Feb."
+  },
+  "tr": {
+   "World Club Final": "Dünya Kulüpler Finali",
+   "Istanbul Super Cup": "İstanbul Süper Kupası",
+   "Istanbul": "İstanbul",
+   "Qatar": "Katar",
+   "South American final": "Güney Amerika finali",
+   "Play-off": "Play-off",
+   "Semi-final": "Yarı final",
+   "Final": "Final",
+   "South American club final": "Güney Amerika kulüpler finali",
+   "Brazil final day": "Brezilya'da son hafta",
+   "Last round": "Son hafta",
+   "The champions of each continent meet for one trophy. Referee every round before the real match is played.": "Her kıtanın şampiyonu tek bir kupa için karşılaşıyor. Gerçek maç oynanmadan önce her turu sen yönet.",
+   "Four top Spanish clubs, three nights in Istanbul: two semi-finals, then the final.": "Dört büyük İspanyol kulübü, İstanbul'da üç gece: iki yarı final, ardından final.",
+   "28 Nov": "28 Kas",
+   "9 Dec": "9 Ara",
+   "12 Dec": "12 Ara",
+   "16 Dec": "16 Ara",
+   "2 Feb": "2 Şub",
+   "3 Feb": "3 Şub",
+   "6 Feb": "6 Şub"
+  },
+  "ar": {
+   "World Club Final": "نهائي الأندية العالمي",
+   "Istanbul Super Cup": "كأس السوبر في إسطنبول",
+   "Istanbul": "إسطنبول",
+   "Qatar": "قطر",
+   "Doha": "الدوحة",
+   "Montevideo": "مونتيفيديو",
+   "South American final": "نهائي أمريكا الجنوبية",
+   "Play-off": "الملحق",
+   "Semi-final": "نصف النهائي",
+   "Final": "النهائي",
+   "South American club final": "نهائي أندية أمريكا الجنوبية",
+   "Brazil final day": "الجولة الأخيرة في البرازيل",
+   "Last round": "الجولة الأخيرة",
+   "Rio de Janeiro": "ريو دي جانيرو",
+   "The champions of each continent meet for one trophy. Referee every round before the real match is played.": "أبطال كل قارة يتنافسون على كأس واحدة. أدِر كل دور قبل أن تُلعب المباراة الحقيقية.",
+   "Four top Spanish clubs, three nights in Istanbul: two semi-finals, then the final.": "أربعة أندية إسبانية كبرى وثلاث ليالٍ في إسطنبول: نصفا نهائي ثم النهائي.",
+   "28 Nov": "28 نوفمبر",
+   "9 Dec": "9 ديسمبر",
+   "12 Dec": "12 ديسمبر",
+   "16 Dec": "16 ديسمبر",
+   "2 Feb": "2 فبراير",
+   "3 Feb": "3 فبراير",
+   "6 Feb": "6 فبراير"
+  }
+ }
+}
