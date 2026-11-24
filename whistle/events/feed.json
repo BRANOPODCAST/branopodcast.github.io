@@ -5,7 +5,7 @@
  "id": "whistle.events",
  "name": "Whistle events",
  "author": "Whistle",
- "updated": "2026-11-19T15:00:00Z",
+ "updated": "2026-11-24T12:30:00Z",
  "description": "Big Matches and event tournaments.",
  "teams": [
   {
@@ -326,6 +326,64 @@
     "Gómez",
     "Martín"
    ]
+  },
+  {
+   "id": "london-white",
+   "name": "London White",
+   "short": "LWH",
+   "rating": 84,
+   "edge": 0.5,
+   "kit": {
+    "shirt": "#ffffff",
+    "shorts": "#132257",
+    "accent": "#132257"
+   },
+   "names": [
+    "Walker",
+    "Hughes",
+    "Bennett",
+    "Foster",
+    "Turner",
+    "Parker",
+    "Collins",
+    "Shaw",
+    "Mills",
+    "Barker",
+    "Fletcher",
+    "Hayes",
+    "Webb",
+    "Carter",
+    "Dawson"
+   ]
+  },
+  {
+   "id": "london-red",
+   "name": "London Red",
+   "short": "LRD",
+   "rating": 88,
+   "edge": 0.45,
+   "kit": {
+    "shirt": "#db0007",
+    "shorts": "#ffffff",
+    "accent": "#ffffff"
+   },
+   "names": [
+    "Harris",
+    "Clarke",
+    "Wright",
+    "Mitchell",
+    "Cooper",
+    "Ward",
+    "Morgan",
+    "Bailey",
+    "Price",
+    "Russell",
+    "Fisher",
+    "Gray",
+    "Lloyd",
+    "Chapman",
+    "Owen"
+   ]
   }
  ],
  "tournaments": [
@@ -447,6 +505,17 @@
    "venue": "Rio de Janeiro",
    "crowd": 70000,
    "stakes": 0.95
+  },
+  {
+   "id": "north-london-derby-2026",
+   "home": "london-white",
+   "away": "london-red",
+   "kickoff": "2026-12-06T16:30:00Z",
+   "comp": "North London derby",
+   "stage": "League",
+   "venue": "London",
+   "crowd": 62000,
+   "stakes": 0.9
   }
  ],
  "i18n": {
@@ -472,7 +541,10 @@
    "16 Dec": "16 dic",
    "2 Feb": "2 feb",
    "3 Feb": "3 feb",
-   "6 Feb": "6 feb"
+   "6 Feb": "6 feb",
+   "North London derby": "Derbi del norte de Londres",
+   "League": "Liga",
+   "London": "Londres"
   },
   "fr": {
    "World Club Final": "Finale mondiale des clubs",
@@ -493,7 +565,10 @@
    "16 Dec": "16 déc.",
    "2 Feb": "2 févr.",
    "3 Feb": "3 févr.",
-   "6 Feb": "6 févr."
+   "6 Feb": "6 févr.",
+   "North London derby": "Derby du nord de Londres",
+   "League": "Championnat",
+   "London": "Londres"
   },
   "it": {
    "World Club Final": "Finale mondiale per club",
@@ -514,7 +589,10 @@
    "16 Dec": "16 dic",
    "2 Feb": "2 feb",
    "3 Feb": "3 feb",
-   "6 Feb": "6 feb"
+   "6 Feb": "6 feb",
+   "North London derby": "Derby del nord di Londra",
+   "League": "Campionato",
+   "London": "Londra"
   },
   "pt": {
    "World Club Final": "Final Mundial de Clubes",
@@ -536,7 +614,10 @@
    "16 Dec": "16 dez",
    "2 Feb": "2 fev",
    "3 Feb": "3 fev",
-   "6 Feb": "6 fev"
+   "6 Feb": "6 fev",
+   "North London derby": "Clássico do norte de Londres",
+   "League": "Liga",
+   "London": "Londres"
   },
   "de": {
    "World Club Final": "Klub-Weltfinale",
@@ -557,7 +638,10 @@
    "16 Dec": "16 Dez.",
    "2 Feb": "2 Feb.",
    "3 Feb": "3 Feb.",
-   "6 Feb": "6 Feb."
+   "6 Feb": "6 Feb.",
+   "North London derby": "Nordlondon-Derby",
+   "League": "Liga",
+   "London": "London"
   },
   "tr": {
    "World Club Final": "Dünya Kulüpler Finali",
@@ -579,7 +663,10 @@
    "16 Dec": "16 Ara",
    "2 Feb": "2 Şub",
    "3 Feb": "3 Şub",
-   "6 Feb": "6 Şub"
+   "6 Feb": "6 Şub",
+   "North London derby": "Kuzey Londra derbisi",
+   "League": "Lig",
+   "London": "Londra"
   },
   "ar": {
    "World Club Final": "نهائي الأندية العالمي",
@@ -604,7 +691,10 @@
    "16 Dec": "16 ديسمبر",
    "2 Feb": "2 فبراير",
    "3 Feb": "3 فبراير",
-   "6 Feb": "6 فبراير"
+   "6 Feb": "6 فبراير",
+   "North London derby": "ديربي شمال لندن",
+   "League": "الدوري",
+   "London": "لندن"
   }
  }
 }
